@@ -1,6 +1,3 @@
----
-title: Welcome to Landing Text!
----
 <!DOCTYPE html>
 <html>
   <head>
