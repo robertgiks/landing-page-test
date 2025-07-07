@@ -5,7 +5,7 @@
 
     
     <style>
-      .mainBody {
+      #mainBody {
         background-color: lightred;
         }
       .myDiv {
@@ -18,7 +18,7 @@
     
   </head>
   
-  <body class="mainBody">
+  <body id="mainBody">
     <h1>Index Site Background [LAYER 1]</h1>
     
     <div class="myDiv">
