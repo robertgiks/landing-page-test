@@ -2,12 +2,7 @@
   
   <head>
     <meta charset="utf-8">
-
-    
     <style>
-      #mainBody {
-        background-color: lightred;
-        }
       .myDiv {
         border: 5px outset red;
         background-color: lightblue;
@@ -18,7 +13,7 @@
     
   </head>
   
-  <body id="mainBody">
+  <body background-color="lightred">
     <h1>Index Site Background [LAYER 1]</h1>
     
     <div class="myDiv">
