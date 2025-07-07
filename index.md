@@ -1,15 +1,16 @@
 <html>
+  
   <head>
     <meta charset="utf-8">
-    <title>Home</title>
     <style>
-.myDiv {
-  border: 5px outset red;
-  background-color: lightblue;
-  text-align: center;
-}
-</style>
+      .myDiv {
+        border: 5px outset red;
+        background-color: lightblue;
+        text-align: center;
+        }
+    </style>
   </head>
+  
   <body>
     <h1>Index Site Background [LAYER 1]</h1>
     <div class="myDiv">
