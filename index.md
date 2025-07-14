@@ -13,8 +13,8 @@
     
   </head>
   
-  <body background-color="lightred">
-    <h1>Index Site Background [LAYER 1]</h1>
+  <body>
+    
     
     <div class="myDiv">
       <h2>This is a heading in a div element</h2>
